@@ -1,0 +1,6 @@
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+D:\Synch_folder\ITacademy\C#\Classwork_with_Max\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
